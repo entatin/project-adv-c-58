@@ -1,0 +1,31 @@
+body {
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,9,79,1) 35%, rgba(0,212,255,1) 100%);
+      text-align:center;
+}  
+  h1 {
+  color: tomato;  
+  }
+
+p {
+  color: tomato;
+}
+
+
+ #about:hover {
+  background-color: yellow;
+}
+
+ #share:hover {
+  background-color: yellow;
+}
+
+ #hobby:hover {
+  background-color: yellow;
+}
+
+ #inspiration:hover {
+  background-color: yellow;
+}
+
+ #work:hover {background-color: yellow;
+}
